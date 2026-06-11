@@ -10,7 +10,7 @@ Arduino move os servos
 
 📦 Instalação
 Python
-pip install opencv-python cvzone pyserial
+"pip install opencv-python cvzone pyserial"
 ▶️ Como usar
 Conecte o Arduino no PC
 Verifique a porta (COM3, COM4, etc)
