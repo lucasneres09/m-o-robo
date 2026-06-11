@@ -18,15 +18,17 @@ Rode o Python:
 python dedos.py
 ⚠️ Configuração
 
-No arquivo Python, ajuste a porta:
+No arquivo Python, ajuste a porta: arduino = serial.Serial('COM8', 9600)
 
-arduino = serial.Serial('COM8', 9600)
+
 🤖 Pinos dos servos (Arduino)
 Dedão → D6
 Indicador → D10
 Meio → D3
 Anelar → D5
 Mindinho → D9
+
+
 🧠 Lógica
 1 = dedo levantado
 0 = dedo fechado
