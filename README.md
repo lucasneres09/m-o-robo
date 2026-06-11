@@ -6,6 +6,8 @@ Câmera detecta a mão
 Python transforma os dedos em 0 e 1
 Envia via Serial USB
 Arduino move os servos
+
+
 📦 Instalação
 Python
 pip install opencv-python cvzone pyserial
